@@ -140,10 +140,7 @@ int main() {
 
 
 ## OUTPUT
-<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/8a73772b-0fdb-44af-be29-e61deef7ae67" />
-
-
-
+![alt text](<WhatsApp Image 2026-05-15 at 16.14.53.jpeg>)
 
 
 
